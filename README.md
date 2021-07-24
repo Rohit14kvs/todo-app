@@ -1,2 +1,2 @@
 # todo-app
-a creative todo list web app in JavaScript
+A creative todo list web app in JavaScript
